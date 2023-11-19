@@ -28,7 +28,7 @@ const UserMenu = () => {
 					<DropdownMenuTrigger>
 						<Button
 							variant="outline"
-							className="cursor-pointer flex items-center gap-2 rounded-full md:pr-1 md:pl-3 md:py-[1.35rem] py-2 px-2.5 hover:bg-muted-foreground/5"
+							className="cursor-pointer flex items-center gap-2 rounded-full md:pr-1 md:pl-3 md:py-[1.35rem] py-5 px-2.5 hover:bg-muted-foreground/5 dark:border-white/20"
 						>
 							<RxHamburgerMenu className="text-xl" />
 							<div className="md:block hidden">
